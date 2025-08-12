@@ -1,1 +1,1 @@
-belajar state management(bloc)
+This repository is dedicated to exploring and mastering state management in Flutter using the BLoC (Business Logic Component) pattern. The goal is to build scalable and maintainable Flutter applications by separating business logic from UI.
